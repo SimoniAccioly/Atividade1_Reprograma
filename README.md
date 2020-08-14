@@ -1,11 +1,11 @@
-:globe_with_meridians: # **Como a Internet funciona?** :globe_with_meridians:
+:globe_with_meridians: :globe_with_meridians: # **Como a Internet funciona?** :globe_with_meridians: :globe_with_meridians:
 
-+ Resumo
-+ TCP/IP
-+ HTTP e HTTPS
-+ Roteador
-+ Página/Servidor de e-mail
-+ Nuvem
++ Resumo :page_facing_up:
++ TCP/IP :satellite:
++ HTTP e HTTPS :closed_lock_with_key:
++ Roteador :signal_strength:
++ Página/Servidor de e-mail :mailbox_with_mail:
++ Nuvem :cloud:
 
 ![internet](https://user-images.githubusercontent.com/67556668/90066030-88330580-dcc3-11ea-8730-9cf1f19ef560.gif)
 
@@ -14,12 +14,12 @@ A Internet é a espinha dorsal da Web, a infraestrutura técnica que faz a Web p
 
 A história da internet é um pouco obscura. Ela começou nos anos 60 como um projeto de pesquisa consolidado pelo exército norte americano, e tornou-se uma infraestrutura pública nos anos 80 com o suporte dado por diversas universidades públicas e companias privadas. As várias tecnologias que suportam a internet se acoplaram através do tempo, mas a forma de funcionamento não mudou muito: Internet é uma forma de conectar computadores e garantir, em qualquer situação, que eles encontrem uma forma de se manter conectados.
 
-<p text-aling ="center" width="50%">![google-origem](https://user-images.githubusercontent.com/67556668/90075010-c683f100-dcd2-11ea-98f7-cbb88ec8f215.jpg)</p>
+![google-origem](https://user-images.githubusercontent.com/67556668/90075010-c683f100-dcd2-11ea-98f7-cbb88ec8f215.jpg)
 
 
 Muitas pessoas usam a Internet todos os dias, mesmo sem saber como ela funciona. Quando conversamos com nossas famílias pelo WhatsApp, enviamos e-mails para amigos e amigas e jogamos online, a Internet parece uma coisa mágica. E de fato é. Tecnologia é magia, e magia é tecnologia. Mas entender como essa mágica funciona é muito importante, e é uma questão política.
 
-<p text-aling ="center" width="50%">![não é mágica](https://user-images.githubusercontent.com/67556668/90067348-5a4ec080-dcc5-11ea-8aa6-e7ca2448da62.png)</p>
+![não é mágica](https://user-images.githubusercontent.com/67556668/90067348-5a4ec080-dcc5-11ea-8aa6-e7ca2448da62.png)
 
 A Internet é uma rede de redes interconectadas. Daí o nome, inter, de interconectadas, e network, que significa rede em inglês. Internetwork! Ou simplesmente, Internet! Mas uma rede de quê? A Internet é uma rede de computadores (e pessoas!), que funciona de forma parecida a um serviço postal. Assim como o correio, que permite que você envie envelopes contendo mensagens e pacotes, a Internet permite que computadores se conectem entre si para enviar pequenos pacotes de dados contendo informações.
 
