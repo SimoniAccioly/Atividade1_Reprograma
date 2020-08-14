@@ -1,4 +1,4 @@
-# **Como a Internet funciona?** :globe_with_meridians: :globe_with_meridians:
+# :globe_with_meridians: :globe_with_meridians: **Como a Internet funciona?** :globe_with_meridians: :globe_with_meridians:
 
 + Resumo :page_facing_up:
 + TCP/IP :satellite:
