@@ -1,4 +1,4 @@
-:globe_with_meridians: :globe_with_meridians:  **Como a Internet funciona?** :globe_with_meridians: :globe_with_meridians:
+# **Como a Internet funciona?** :globe_with_meridians: :globe_with_meridians:
 
 + Resumo :page_facing_up:
 + TCP/IP :satellite:
@@ -7,9 +7,8 @@
 + Página/Servidor de e-mail :mailbox_with_mail:
 + Nuvem :cloud:
 
-<p align="center"> 
-<img src="![internet](https://user-images.githubusercontent.com/67556668/90066030-88330580-dcc3-11ea-8730-9cf1f19ef560.gif)">
-</p>
+
+![internet](https://user-images.githubusercontent.com/67556668/90066030-88330580-dcc3-11ea-8730-9cf1f19ef560.gif)">
 
 
 # RESUMO
