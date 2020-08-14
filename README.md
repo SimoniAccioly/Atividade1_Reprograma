@@ -7,7 +7,10 @@
 + Página/Servidor de e-mail :mailbox_with_mail:
 + Nuvem :cloud:
 
-![internet](https://user-images.githubusercontent.com/67556668/90066030-88330580-dcc3-11ea-8730-9cf1f19ef560.gif)
+<p align="center"> 
+<img src="![internet](https://user-images.githubusercontent.com/67556668/90066030-88330580-dcc3-11ea-8730-9cf1f19ef560.gif)">
+</p>
+
 
 # RESUMO
 A Internet é a espinha dorsal da Web, a infraestrutura técnica que faz a Web possível. Mas basicamente, a Internet é uma gigantesca rede de computadores que se comunicam juntos.
