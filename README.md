@@ -1,4 +1,4 @@
-:globe_with_meridians: :globe_with_meridians: # **Como a Internet funciona?** :globe_with_meridians: :globe_with_meridians:
+:globe_with_meridians: :globe_with_meridians:  **Como a Internet funciona?** :globe_with_meridians: :globe_with_meridians:
 
 + Resumo :page_facing_up:
 + TCP/IP :satellite:
@@ -80,6 +80,7 @@ Uma página é composta de arquivos, que “moram” em um servidor conectado à
 
 ### Fonte:
 [Medium](https://medium.com/cuidados-integrais/como-a-internet-funciona-2936e6c7053e)
+<br>
 [mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona/)
 
 
